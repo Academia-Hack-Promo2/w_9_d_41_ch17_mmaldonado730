@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.img_p{
+	text-align: center;
+
+}
+.titulo1{
+	font-family: 'Poiret One';
+    font-size: 200px;
+	text-align: center;
+	padding-left: 25px;
+}
+.titulo2{
+	font-family: 'Poiret One';
+    font-size: 100px;
+	text-align: center;
+	line-height: 90px;
+	padding-left: 25px;
+}
+.linea{
+	background-color: #000
+}
+
+.titulo3{
+	font-family: 'Poiret One';
+    font-size: 80px;
+	text-align: left;
+	line-height: 90px;
+	padding-left: 25px;
+}
+
+.text{
+	font-family: 'Poiret One';
+    font-size: 30px;
+	text-align: left;
+	line-height: 90px;
+	padding-left: 25px;
+
+}
+            
